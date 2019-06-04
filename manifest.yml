@@ -1,0 +1,4 @@
+---
+applications:
+- name: Visualization-of-Geospatial-Data
+  memory: 1024MB
